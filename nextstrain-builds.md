@@ -1,9 +1,9 @@
-# Recommendations for developing Nextstrain pathogen builds
+# Best practices for developing Nextstrain pathogen builds
 
-These are my recommendations for developing modular augur pathogen builds in
-per-pathogen repositories.  They're based on my experience creating such a
-build using zika as an example while developing the Nextstrain base container
-and CLI.
+These are suggested best practices for developing modular augur pathogen builds
+in per-pathogen repositories.  Original discussion of these recommendations
+happened [in a GitHub
+Gist](https://gist.github.com/tsibley/0e760b9f7d7955fc9d48ad87728a8af4).
 
 
 ## Use a config.yaml file
